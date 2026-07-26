@@ -1,8 +1,26 @@
 aid: fastshot
 name: Fastshot
-description: Fastshot is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Fastshot is an AI-powered, no-code mobile app builder that turns a plain-language
+  prompt into a real native iOS and Android application. A multi-agent AI workflow handles
+  design, branding, asset generation, and functionality end to end, then deploys the finished
+  app to the Apple App Store and Google Play. The platform includes integrations for a Supabase
+  backend (authentication, database, storage), GitHub source-code management, Expo builds, and
+  in-app-purchase monetization, letting non-technical founders and businesses ship a working
+  mobile app in minutes rather than hiring an agency or in-house team. Fastshot is a Y Combinator
+  (Fall 2025) company founded by ex-Google engineers Dmitry Fatkhi and Elvira Dzhuraeva.
 url: https://raw.githubusercontent.com/api-evangelist/fastshot/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://fastshot.ai/fastshot/logos/FS-original-circle.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +29,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- No Code
+- Mobile
+- App Builder
+- Artificial Intelligence
+- Mobile Development
+- App Development
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/fastshot-domain-security.yml
+- type: Website
+  url: https://fastshot.ai
+- type: DeveloperPortal
+  url: https://docs.fastshot.ai
+- type: Documentation
+  url: https://docs.fastshot.ai
+- type: GettingStarted
+  url: https://docs.fastshot.ai/quickstart
+- type: Support
+  url: https://discord.gg/4UHnKKmj9q
+- type: Pricing
+  url: https://fastshot.ai/pricing
+- type: SignUp
+  url: https://fastshot.ai/login
+- type: Login
+  url: https://fastshot.ai/login
+- type: TermsOfService
+  url: https://fastshot.ai/terms
+- type: PrivacyPolicy
+  url: https://fastshot.ai/privacy
+- type: LLMsTxt
+  url: llms/fastshot-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

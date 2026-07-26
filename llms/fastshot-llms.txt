@@ -1,0 +1,33 @@
+# Fastshot
+
+## Docs
+
+- [Asking Questions](https://docs.fastshot.ai/creating/asking-questions.md): How the AI clarifies your requirements before building
+- [Prompting Guide](https://docs.fastshot.ai/creating/prompting-guide.md): Write better prompts for better apps
+- [Starting a Project](https://docs.fastshot.ai/creating/starting-a-project.md): How to create a new mobile app from scratch
+- [Using Reference Images](https://docs.fastshot.ai/creating/using-reference-images.md): Upload screenshots and mockups to guide your app's design
+- [Website Inspiration](https://docs.fastshot.ai/creating/website-inspiration.md): Turn any website into a mobile app design
+- [How It Works](https://docs.fastshot.ai/how-it-works.md): The AI workflow behind Fastshot
+- [Introduction](https://docs.fastshot.ai/index.md): Build mobile apps by chatting with AI
+- [GitHub Integration](https://docs.fastshot.ai/integrations/github-integration.md): Connect GitHub to manage your app's source code
+- [Monetization](https://docs.fastshot.ai/integrations/monetization.md): Add in-app purchases and subscriptions
+- [Supabase Backend](https://docs.fastshot.ai/integrations/supabase-backend.md): Add authentication, database, and storage to your app
+- [Android Deployment](https://docs.fastshot.ai/publishing/android-deployment.md): Build and publish your app to Google Play
+- [Publishing Overview](https://docs.fastshot.ai/publishing/app-publishing-overview.md): Deploy your app to the App Store and Google Play
+- [Expo Connection](https://docs.fastshot.ai/publishing/expo-connection.md): Connect your Expo account for app builds
+- [iOS Deployment](https://docs.fastshot.ai/publishing/ios-deployment.md): Build and submit your app to the App Store
+- [Quickstart](https://docs.fastshot.ai/quickstart.md): Go from idea to working app in 5 minutes
+- [FAQ](https://docs.fastshot.ai/support/faq.md): Frequently asked questions about Fastshot
+- [Troubleshooting](https://docs.fastshot.ai/support/troubleshooting.md): Solutions for common issues
+- [App Configuration](https://docs.fastshot.ai/working/app-config.md): Customize your app's name, icon, splash screen, and settings
+- [Asset Management](https://docs.fastshot.ai/working/asset-management.md): Generate and manage images, icons, and logos
+- [Making Changes](https://docs.fastshot.ai/working/making-changes.md): Iterate on your app with follow-up messages
+- [Preview & Testing](https://docs.fastshot.ai/working/preview-and-testing.md): Test your app in the browser and on your phone
+
+## OpenAPI Specs
+
+- [openapi](https://docs.fastshot.ai/api-reference/openapi.json)
+
+## Optional
+
+- [Community](https://discord.com/invite/4UHnKKmj9q)
