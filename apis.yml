@@ -9,6 +9,17 @@ description: Fastshot is an AI-powered, no-code mobile app builder that turns a 
   mobile app in minutes rather than hiring an agency or in-house team. Fastshot is a Y Combinator
   (Fall 2025) company founded by ex-Google engineers Dmitry Fatkhi and Elvira Dzhuraeva.
 url: https://raw.githubusercontent.com/api-evangelist/fastshot/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
