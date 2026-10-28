@@ -64,6 +64,62 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fastshot is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Fastshot is the AI app builder for native iOS and Android apps. Describe your idea, get a working app in minutes and publish it to the App Store and Google Play. Build APK, AAB and IPA files without a Mac. Earn with subscriptions and AdMob ads.
 
-Backed by: y-combinator
+**Areas:** Company · No-Code · Mobile · App Builder · Artificial Intelligence · Mobile Development · App Development · Y Combinator
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fastshot.ai/?utm_source=apisio&utm_medium=directory&utm_campaign=listings-2026-10)
+- [Documentation](https://docs.fastshot.ai)
+- [Getting started](https://docs.fastshot.ai/quickstart)
+- [Sign up](https://fastshot.ai/login)
+- [Support](https://discord.gg/4UHnKKmj9q)
+- [Blog](https://fastshot.ai/blog)
+- [Terms of service](https://fastshot.ai/terms)
+- [Privacy policy](https://fastshot.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 15.9** — emerging · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fastshot/](https://apis.io/providers/fastshot/).
